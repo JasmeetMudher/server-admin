@@ -1,8 +1,8 @@
 <?php
 
 $host = "localhost";
-$username = "root";
-$password = "@.happy!";
+$username = "user";
+$password = "user";
 $database = "server_admin";
 
 // Create connection
