@@ -4,8 +4,8 @@ class Database {
     private $connection;
 
     public function __construct() {
-        $username = "root";
-        $password = "@.happy!";
+        $username = "user";
+        $password = "user";
         $database = "server_admin";
         $host = "localhost";
 
