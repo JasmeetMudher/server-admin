@@ -5,7 +5,7 @@ class Database {
 
     public function __construct() {
         $username = "root";
-        $password = " ";
+        $password = "";
         $database = "server_admin";
         $host = "localhost";
 
